@@ -88,7 +88,7 @@ class WeatherPage extends StatelessWidget {
             Container(
               padding: const EdgeInsets.all(16),
               decoration: BoxDecoration(
-                color: const Color.fromARGB(255, 222, 222, 222),
+                color: const Color.fromARGB(255, 154, 206, 219),
                 borderRadius: BorderRadius.circular(12),
               ),
               child: Column(
